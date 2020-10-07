@@ -7,6 +7,20 @@ verify_ssl = true
 
 [packages]
 jupyter = "*"
+holoviews = "*"
+matplotlib = "*"
+seaborn = "*"
+keras = "2.2.4"
+keras-applications = "1.0.6"
+keras-preprocessing = "1.0.5"
+tensorflow-gpu = "1.10.0"
+tensorboard = "1.10.0"
+sklearn = "0.20.0"
+scipy = "1.1.0"
+pandas = "0.23.4"
+numpy = "1.14.5"
+
+
 
 [requires]
-python_version = "3.7"
+python_version = "3.6.6"
